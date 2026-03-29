@@ -16,3 +16,5 @@ dependencies:
   #   public: true
   kasbert/esp_audio_dac_stream:
     git: https://github.com/kasbert/esp_audio_dac_stream.git
+  kasbert/esp_audio_sid_stream:
+    git: https://github.com/kasbert/esp_audio_sid_stream.git
